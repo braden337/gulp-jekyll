@@ -14,5 +14,3 @@ github_username:  jekyll
 markdown: kramdown
 
 exclude: ['node_modules', 'README.md', 'gulpfile.js', 'package.json']
-
-# This is only a comment
