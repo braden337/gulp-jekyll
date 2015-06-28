@@ -1,0 +1,19 @@
+{
+  "name": "gulp-jekyll",
+  "version": "1.0.0",
+  "description": "playing with gulp and jekyll",
+  "main": "site/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braden337/gulp-jekyll.git"
+  },
+  "author": "braden337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braden337/gulp-jekyll/issues"
+  },
+  "homepage": "https://github.com/braden337/gulp-jekyll#readme"
+}
