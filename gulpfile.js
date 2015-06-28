@@ -3,6 +3,6 @@ var ghpages = require("gulp-gh-pages");
 
 
 gulp.task("deploy", function() {
-  gulp.src("./_site/**/*")
-      .pipe(ghpages());
+  return gulp.src("./_site/**/*")
+    .pipe(ghpages());
 });
